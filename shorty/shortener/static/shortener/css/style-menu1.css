@@ -1,0 +1,34 @@
+
+/*@font-face {
+  font-family: 'FontAwesome';
+  src: url('fonts/fontawesome-webfont.eot?v=4.1.0');
+  src: url('fonts/fontawesome-webfont.eot?#iefix&v=4.1.0') format('embedded-opentype'), url('fonts/fontawesome-webfont.woff?v=4.1.0') format('woff'), url('fonts/fontawesome-webfont.ttf?v=4.1.0') format('truetype'), url('fonts/fontawesome-webfont.svg?v=4.1.0#fontawesomeregular') format('svg');
+  font-weight: normal;
+  font-style: normal;
+}
+*/
+* {
+  box-sizing: border-box;
+}
+.bodys {
+   background: #E5E5E5;/*#b3d4ef;*/
+}
+.header {
+  background: #69D176; text-align: center; margin:5px 20px 5px 20px;
+  padding:25px
+}
+.link {
+  /*position: absolute;*/
+  text-decoration: none;
+  float: left;
+  margin:10px 50px 10px 50px;
+  display: table;
+  padding:5px;
+  /*border: 1px solid;*/
+  float: none;
+  text-decoration: none;
+  text-align: left;
+}
+.h2 {
+  margin:10px 50px 10px 50px;
+}
